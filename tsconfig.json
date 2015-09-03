@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeComments": false,
+        "preserveConstEnums": false,
+        "sourceMap": true,
+        "outDir": "out"
+    },
+
+    "files": [
+        "src/Scooby.ts",
+        "src/Doo.ts"
+    ]
+	
+}
